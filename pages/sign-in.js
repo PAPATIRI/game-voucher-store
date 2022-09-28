@@ -48,7 +48,7 @@ export default function SignIn() {
                 </p>
                 <div className="pt-50">
                   <label
-                    for="email"
+                    htmlFor="email"
                     className="form-label text-lg fw-medium color-palette-1 mb-10"
                   >
                     Email Address
@@ -64,7 +64,7 @@ export default function SignIn() {
                 </div>
                 <div className="pt-30">
                   <label
-                    for="password"
+                    htmlFor="password"
                     className="form-label text-lg fw-medium color-palette-1 mb-10"
                   >
                     Password
